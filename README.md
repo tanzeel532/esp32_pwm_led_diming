@@ -5,7 +5,6 @@ This project demonstrates basic LED control using ESP32 with the Arduino framewo
 ## Hardware
 - ESP32 development board
 - LED connected to GPIO 2
-- Resistor (220Ω recommended)
 
 ## Software
 - VSCode
